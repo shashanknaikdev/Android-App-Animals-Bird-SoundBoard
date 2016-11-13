@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Animals/Birds Soundboard</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Click the Image to play the sound!</string>
+
+</resources>
